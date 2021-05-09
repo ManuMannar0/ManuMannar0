@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Emanuele, freelance web developer.
+### I'm Emanuele, freelance web developer
 
 - 🔭 I’m a freelance developer
 - 🌱 I’m currently learning all I need to become a better Front End developer 
