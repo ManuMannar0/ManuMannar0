@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about what u want
-- 📫 How to reach me: https://www.linkedin.com/in/emanuele-mancari-b4b10171/
+- 📫 How to reach me: mancariemanuele@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: lot of
 -->
