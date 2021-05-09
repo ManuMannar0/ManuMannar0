@@ -10,6 +10,6 @@ I'm Emanuele, freelance web developer.
 - 📫 How to reach me: mancariemanuele@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: lot of
--->
+
 
 
