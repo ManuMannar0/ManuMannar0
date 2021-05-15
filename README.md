@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate with you
 - 🤔 I’m looking for help who is interested in learn code from 0
 - 💬 Ask me about what u want
-- 📫 How to reach me: mancariemanuele@gmail.com
+- 📫 How to reach me: mancariemanuele@gmail.com or <a href="https://www.linkedin.com/in/emanuele-mancari-b4b10171/" target="_blank" >Linkedin message</a>
 - 😄 Lenguages: ENG ITA
 <!-- - ⚡ Fun fact: lot of -->
