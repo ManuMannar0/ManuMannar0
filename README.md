@@ -6,3 +6,5 @@
 - 📫 How to reach me: mancariemanuele@gmail.com or <a href="https://www.linkedin.com/in/emanuele-mancari-b4b10171/" target="_blank" >Linkedin message</a>
 - 😄 Lenguages: ENG ITA
 <!-- - ⚡ Fun fact: lot of -->
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
