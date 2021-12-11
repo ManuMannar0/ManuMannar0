@@ -15,3 +15,4 @@
 ![github512](https://user-images.githubusercontent.com/77243049/132858883-e91498f8-e6d6-48dd-85b9-c42eb2de0a42.png)
 ![agile512](https://user-images.githubusercontent.com/77243049/132858607-27c0d9fd-56cc-4886-8ed7-e85e92b1a34e.png)
 ![macos512](https://user-images.githubusercontent.com/77243049/132858910-476bc76e-c3d8-4217-a60a-8c8e1d8706f7.png)
+![sc (1)](https://user-images.githubusercontent.com/77243049/145665391-8d7102e2-15e4-4481-b1f7-3fd1b0510565.png)
