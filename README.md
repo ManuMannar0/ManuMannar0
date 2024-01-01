@@ -1,9 +1,9 @@
 Hi there 👋
-I'm Emanuele, product specialist and web developer.
+I'm Emanuele, IT product specialist (delivery solutions).
 
 - 🌱 I’m always learning all I need to become a man 
 - 👯 In the future I'd like to collaborate to an open source project
-- 📫 How to reach me: laparteweb@gmail.com
+- 📫 How to reach me: mancariemanuele@gmail.com
 - 😄 Lenguages: ENG ITA
 <!-- - ⚡ Fun fact: lot of -->
 
