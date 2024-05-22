@@ -1,8 +1,8 @@
 Hi there 👋
-I'm Emanuele, IT product specialist (delivery solutions).
+I'm Emanuele, IT specialist.
 
 - 🌱 I’m always learning all I need to become a man 
-- 👯 In the future I'd like to collaborate to an open source project
+- 👯 In the future I'd like to go to the moon
 - 📫 How to reach me: mancariemanuele@gmail.com
 - 😄 Lenguages: ENG ITA
 <!-- - ⚡ Fun fact: lot of -->
